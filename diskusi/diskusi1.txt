@@ -1,0 +1,19 @@
+Notulensi Kumpul 1
+
+
+Topik : Menentukan jenis friend finder serta deskripsi teman apa yang akan dicari
+
+Hari/Tanggal : Selasa, 20 Feb 2018
+
+Tempat : Pujas
+
+Anggota yang hadir : Alif, Ludy, Matin dan Zahra
+
+Hasil Diskusi :
+- Ada 7 ide awal dari masing-masing anggota mengenai jenis teman apa yang akan dicari. Enam ide tersebut adalah : Teman belajar, cari komunitas, teman dengan penyakit yang sama, teman sharing, teman trip, teman kerja dan teman mentoring.
+
+- Ide yang akhirnya dipilih adalah teman mentoring. 
+
+- Latar belakang dari mencari teman mentoring karena ada kebutuhan orang ingin mencari teman dalam hal kebaikan serta teman untuk mencari ilmu agama bersama. Hal ini didasari semakin sedikitnya minat orang-orang untuk mencari ilmu dari sumber terpercaya, terutama ilmu agama. Alasan lainnya yaitu supaya kita memiliki teman yang dapat diajak bertukar pikiran tentang suatu materi tertentu agar kita dapat memandang masalah dari berbagai sudut pandang.
+
+- Deskripsi : Ngaji Kuy adalah sebuah aplikasi mobile friendfinder untuk mencari teman sharing dan kajian pada suatu wilayah tertentu. Dalam hal ini, user akan menemukan teman untuk kholaqah dan membentuk suatu kelompok kholaqah/mentoring dalam wilayah terdekat tempat tinggalnya. Dalam hal ini user bisa membentuk kelompok mentoring sendiri ataupun bisa join dengan kelompok mentoring yang membuka open recruitment anggota mentoring itu sendiri. Dengan begitu user akan mudah mencari teman untuk berteman dalam mentoring dan sharing ilmu keagamaan. Parameter yang menjadi rujukan untuk mencari teman mentoring ini berupa lokasi mentoring mana yang diinginkan user, jenis kelamin serta usia. Aplikasi ini juga terdapat portal untuk ustad. Portal ini berguna untuk berhubungan antara ustad dan kelompok mentoring yang akan mencari ustad untuk jadi murabbi.
